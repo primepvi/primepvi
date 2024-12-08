@@ -8,7 +8,6 @@
 
 ### 🧑🏽‍💻 Stack
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=007ACC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
