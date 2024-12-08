@@ -3,7 +3,7 @@
 ### 🚀 Sobre mim
 
 - 📒 Atualmente estou aprendendo mais sobre algoritmos e estruturas de dados.
-- 📫 E-mail: pbernardesviana@gmail.com
+- 📫 E-mail: pedrobernardesv@gmail.com
 - 🎓 Cursando Ciência da Computação na PUC Minas.
 
 ### 🧑🏽‍💻 Stack
