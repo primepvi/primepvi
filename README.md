@@ -12,7 +12,6 @@ A programmer who loves diving deep into how things really work, from compilers a
 <div align="center">
 
   ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=007ACC)
-  ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=orange)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
   ![Elixir](https://img.shields.io/badge/-Elixir-000?&logo=Elixir&logoColor=purple)
