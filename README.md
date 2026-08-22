@@ -5,8 +5,11 @@
 
 A programmer who loves diving deep into how things really work, from compilers and game engines to backends and discord bots, always searching for the spark that makes learning feel magical.
 
+
+
 <div align="center">
   <h2>My Stack</h2>
+  <img src="https://www.codewars.com/users/primepvi/badges/small" />
 </div>
 
 <div align="center">
