@@ -9,7 +9,6 @@ A programmer who loves diving deep into how things really work, from compilers a
 
 <div align="center">
   <h2>My Stack</h2>
-  <img src="https://www.codewars.com/users/primepvi/badges/small" />
 </div>
 
 <div align="center">
@@ -25,4 +24,8 @@ A programmer who loves diving deep into how things really work, from compilers a
   ![Neovim](https://img.shields.io/badge/-Emacs-000?&logo=gnuemacs)
   ![VSCodium](https://img.shields.io/badge/-VSCodium-000?&logo=vscodium)
 
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/primepvi?theme=dark&font=Yrsa&ext=heatmap" />
 </div>
